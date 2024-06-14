@@ -1,2 +1,2 @@
-# Calculator
-I made a  calculator using HTML,  CSS , JAVASCRIPT.
+# online-calculator-html-css-Js
+ This is an online calculator developed using HTML CSS and JavaScript
